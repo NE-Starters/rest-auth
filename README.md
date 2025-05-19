@@ -1,1 +1,1 @@
-# Restful Auth
+# rest-auth
